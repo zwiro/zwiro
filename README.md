@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Next.js**
 
-- 👨‍💻 All of my projects are available at [zyrek.dev](zyrek.dev)
+- 👨‍💻 All of my projects are available at [zyrek.dev](https://zyrek.dev/)
 
 - ⚡ Fun fact **I am an amateur astronomer**
 
